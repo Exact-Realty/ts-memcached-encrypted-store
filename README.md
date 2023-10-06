@@ -12,11 +12,11 @@ of memcached.
 
 ## ✨ Features
 
-✅ Securely store and retrieve keys and values in memcached
-✅ Encryption of data with non-persistent symmetrical keys
-✅ Data integrity verification to prevent tampering
-✅ Configurable cache settings for optimal performance
-✅ Simple and intuitive usage
+* ✅ Securely store and retrieve keys and values in memcached
+* ✅ Encryption of data with non-persistent symmetrical keys
+* ✅ Data integrity verification to prevent tampering
+* ✅ Configurable cache settings for optimal performance
+* ✅ Simple and intuitive usage
 
 ## 🚀 Installation
 
